@@ -35,3 +35,6 @@ while true; do
                         break
                         ;;
                 *)
+                        echo "Invalid choice. Please select 1, 2, or 3."
+        esac
+done
